@@ -1,6 +1,8 @@
 # Human-Resources-Analytics
 Why are our best and most experienced employees leaving prematurely?
 
+from kaggle hr-analytics: https://www.kaggle.com/ludobenistant/hr-analytics
+
 This dataset is simulated
 
 Why are our best and most experienced employees leaving prematurely? Have fun with this database and try to predict which valuable employees will leave next. Fields in the dataset include:
